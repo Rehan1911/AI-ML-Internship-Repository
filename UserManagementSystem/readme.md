@@ -81,7 +81,6 @@ DELETE	/delete/{id}	Delete a User
 🖼️ User Interface
 ![image alt](https://github.com/Rehan1911/AI-ML-Internship-Repository/blob/f9e6fb6a932889361ce2dc8bcebd0cb478559e02/UserManagementSystem/Screenshot%20(41).png?raw=true)
 
-
 📌 Future Enhancements
 🔹 Implement JWT authentication
 🔹 Add user role management

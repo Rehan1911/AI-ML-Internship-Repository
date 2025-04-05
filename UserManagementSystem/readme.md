@@ -79,7 +79,7 @@ PUT	/update/{id}	Update User Details
 DELETE	/delete/{id}	Delete a User
 
 🖼️ User Interface
-![User Management System](D:\AI_ML\UserManagementSystem\Screenshot (41).png)
+![image alt](https://github.com/Rehan1911/AI-ML-Internship-Repository/blob/main/UserManagementSystem/Screenshot%20(41).png?raw=true)
 
 📌 Future Enhancements
 🔹 Implement JWT authentication
